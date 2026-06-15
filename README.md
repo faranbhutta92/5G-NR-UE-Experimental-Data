@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20695140.svg)](https://doi.org/10.5281/zenodo.20695140)
 # 5G NR UE Experimental Current Consumption Data
 
 ## Overview
